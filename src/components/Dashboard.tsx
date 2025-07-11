@@ -7,7 +7,7 @@ import {
   Thermometer, Droplets, Users, Wind, Lightbulb, Activity
 } from 'lucide-react';
 
-import UserInfoForm from './ui/UserInfoForm'; // adapte ce chemin selon ton projet
+import UserInfoForm from './ui/UserInfoForm';
 
 interface SensorReading {
   id: number;
